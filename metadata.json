@@ -1,0 +1,8 @@
+{
+  "name": "Alien Invasion: Earth Harvest",
+  "description": "Tactical orbital invasion simulator. Command the mothership from lunar orbit, manage Xeno-resources, and decimate planetary resistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
